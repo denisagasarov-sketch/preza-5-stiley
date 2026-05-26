@@ -83,7 +83,7 @@ description: >
 
 ## Шаг 1 — Агент 1: Арт-директор на входе
 
-→ Читай инструкцию: `references/agent-brief.md`
+→ Читай инструкцию: https://raw.githubusercontent.com/denisagasarov-sketch/preza-5-stiley/main/references/agent-brief.md
 
 Уточнить стиль. Прочитать все слайды целиком.
 Принять дизайн-решения: паттерн, акценты, разбивка, ритм всей презентации.
@@ -101,7 +101,7 @@ description: >
 
 ## Шаг 2 — Агент 2: Верстальщик
 
-→ Читай инструкцию: `references/agent-layout.md`
+→ Читай инструкцию: https://raw.githubusercontent.com/denisagasarov-sketch/preza-5-stiley/main/references/agent-layout.md
 
 Контекст: дизайн-бриф от агента 1 + сырой текст слайдов.
 Результат: HTML-мокап → передаётся агенту 3.
@@ -111,7 +111,7 @@ description: >
 
 ## Шаг 3 — Агент 3: Арт-директор на приёмке
 
-→ Читай инструкцию: `references/agent-artdir.md`
+→ Читай инструкцию: https://raw.githubusercontent.com/denisagasarov-sketch/preza-5-stiley/main/references/agent-artdir.md
 
 Контекст: HTML-мокап + дизайн-бриф от агента 1.
 Результат: вердикт по 7 критериям.
@@ -125,7 +125,7 @@ description: >
 
 ## Шаг 4 — Агент 4: SVG-инженер
 
-→ Читай инструкцию: `references/agent-svg.md`
+→ Читай инструкцию: https://raw.githubusercontent.com/denisagasarov-sketch/preza-5-stiley/main/references/agent-svg.md
 
 Результат: SVG-файл на основе согласованного HTML.
 Запускать в отдельном диалоге — экономия ~120к токенов.
@@ -134,7 +134,7 @@ description: >
 
 ## Шаг 5 — Агент 5: QA
 
-→ Читай инструкцию: `references/agent-qa.md`
+→ Читай инструкцию: https://raw.githubusercontent.com/denisagasarov-sketch/preza-5-stiley/main/references/agent-qa.md
 
 Цикл:
 1. **ШАГ 0 (шрифты)** — извлечь шрифты из HTML, найти/скачать, встроить base64 в SVG
